@@ -1,0 +1,6 @@
+-   id: rtoml 
+    name: Check TOML syntax with rtoml 
+    description: This hook checks toml files with v1.0.0 syntax. 
+    entry: check-rtoml
+    language: python
+    types: [toml]
